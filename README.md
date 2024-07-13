@@ -8,6 +8,8 @@ BOJ 등 알고리즘 문제와 풀이 코드 자동 업로드 chrome extension
   - secrets, proxy 용 lambda server url 등 민감 정보가 있어서 현재 private 프로젝트로 작업중.
     
      - 해당 정보를 한 곳에 모아서 제외한 다음, 프로젝트 소스 코드를 현재 repository 에 업로드 예정.
+    
+     - 현재 문제 풀이 후, 확장 프로그램 테스트 목적으로 https://github.com/pyo92/boj-auto-push-test 에 업로드 중.
 
   - 현재 진도
     
@@ -22,6 +24,8 @@ BOJ 등 알고리즘 문제와 풀이 코드 자동 업로드 chrome extension
      - ~~문제 업로드 & 소스코드 풀이 업로드~~
    
      - ~~백준 문제 티어 이미지와 티어 설명 등 문제 설명 추가~~
+   
+     - ~~문제 순서 정렬을 위해 문제 번호 lpad 적용~~
     
      - 제출 후, 채점 대기 + 문제 제출 + 코드 제출 시 background 에서만 동작하므로 동작여부를 알기 어려우므로 spinner 같은 걸로 동작중임을 표시
        
